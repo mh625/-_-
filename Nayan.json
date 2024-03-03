@@ -5,14 +5,14 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "FARHAN-BOT",
+  "BOTNAME": "𝑯𝑨𝑺𝑰𝑩_𝑩𝑶𝑻",
   "PREFIX": "/",
   "OPERATOR": [
-    "100069926588234"
+    "61551913599069"
   ],
   "ADMINBOT": [
-    "100069926588234",
-    "100089974857944"
+    "61551913599069",
+    "307708158631898"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
